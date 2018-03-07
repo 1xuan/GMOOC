@@ -26,9 +26,9 @@ sys.path.insert(0, os.path.join(BASE_DIR, 'extra_apps'))
 SECRET_KEY = 'l(mrpo#6p8i&z_k1u0n#yo8opw$ej9y+i4kgbt#+c)fq(o6#$^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 AUTHENTICATION_BACKENDS = (
     'users.views.CustomBackend',
@@ -153,3 +153,5 @@ EMAIL_FROM = '1340031737@qq.com'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
