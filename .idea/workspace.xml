@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41f0506c-4973-4a20-8864-88c9fcb3c0d7" name="Default" comment="org_course_page">
-      <change beforePath="$PROJECT_DIR$/templates/org-list.html" afterPath="$PROJECT_DIR$/templates/org-list.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/apps/users/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="436">
-              <caret line="30" column="65" lean-forward="true" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+              <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -97,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/apps/courses/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -128,8 +128,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/organization/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="2">
+              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -807,7 +807,7 @@
     <entry file="file://$PROJECT_DIR$/apps/courses/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -851,15 +851,15 @@
     <entry file="file://$PROJECT_DIR$/apps/users/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
-          <caret line="30" column="65" lean-forward="true" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/organization/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="2">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
       </provider>
