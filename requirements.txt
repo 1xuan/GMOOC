@@ -1,3 +1,11 @@
 Django==1.11.7
 django-pure-pagination==0.3.0
 PyMySQL==0.7.11
+future==0.16.0
+django-crispy-forms==1.7.0
+django-simple-captcha==0.5.6
+django-formtools==2.1
+httplib2==0.9.2
+django-import-export==0.7.0
+
+
